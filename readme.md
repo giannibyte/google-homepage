@@ -1,1 +1,1 @@
-This project is to try to deconstruct a web page and try to put it back togheter
+This project is to build a Google Homepage
